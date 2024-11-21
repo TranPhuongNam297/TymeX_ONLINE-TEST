@@ -1,0 +1,7 @@
+C:\Users\namtr\OneDrive\Desktop\TymeX_OnlineTest\TymeX_OnlineTest\bin\Debug\TymeX_OnlineTest.exe.config
+C:\Users\namtr\OneDrive\Desktop\TymeX_OnlineTest\TymeX_OnlineTest\bin\Debug\TymeX_OnlineTest.exe
+C:\Users\namtr\OneDrive\Desktop\TymeX_OnlineTest\TymeX_OnlineTest\bin\Debug\TymeX_OnlineTest.pdb
+C:\Users\namtr\OneDrive\Desktop\TymeX_OnlineTest\TymeX_OnlineTest\obj\Debug\TymeX_OnlineTest.csproj.AssemblyReference.cache
+C:\Users\namtr\OneDrive\Desktop\TymeX_OnlineTest\TymeX_OnlineTest\obj\Debug\TymeX_OnlineTest.csproj.CoreCompileInputs.cache
+C:\Users\namtr\OneDrive\Desktop\TymeX_OnlineTest\TymeX_OnlineTest\obj\Debug\TymeX_OnlineTest.exe
+C:\Users\namtr\OneDrive\Desktop\TymeX_OnlineTest\TymeX_OnlineTest\obj\Debug\TymeX_OnlineTest.pdb
